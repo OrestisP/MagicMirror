@@ -1,8 +1,0 @@
-
-
-###########
-pyinstaller --windowed --name andy_app --icon andy.ico main.py -w
-
-pyinstaller --windowed --name cam_app main.py -w
-
-############################################################################### 

@@ -1,0 +1,6 @@
+# ignore these files:
+
+FILES/
+build/
+dist/
+__pycache__/
