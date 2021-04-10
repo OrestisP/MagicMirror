@@ -1,0 +1,7 @@
+('c:\\users\\orestis\\ardit_course\\19.ardit_course_oop\\app-4-webcam-photo-sharer\\share\\glew\\bin',
+ None,
+ [],
+ 'DATA',
+ [('glew32.dll',
+   'c:\\users\\orestis\\ardit_course\\19.ardit_course_oop\\app-4-webcam-photo-sharer\\share\\glew\\bin\\glew32.dll',
+   'DATA')])

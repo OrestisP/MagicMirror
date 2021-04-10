@@ -1,0 +1,1136 @@
+('D:\\Orestis\\Documents\\1. UDEMY COURSES\\19.Ardit_course_OOP\\Mirror',
+ None,
+ [],
+ 'DATA',
+ [('filesharer.py',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\filesharer.py',
+   'DATA'),
+  ('frontend.kv',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\frontend.kv',
+   'DATA'),
+  ('MagicMirror.spec',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\MagicMirror.spec',
+   'DATA'),
+  ('main.py',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\main.py',
+   'DATA'),
+  ('mirror.ico',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\mirror.ico',
+   'DATA'),
+  ('__pycache__\\filesharer.cpython-39.pyc',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\__pycache__\\filesharer.cpython-39.pyc',
+   'DATA'),
+  ('__pycache__\\main.cpython-39.pyc',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\__pycache__\\main.cpython-39.pyc',
+   'DATA'),
+  ('images\\down.png',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\images\\down.png',
+   'DATA'),
+  ('images\\mirror.png',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\images\\mirror.png',
+   'DATA'),
+  ('images\\normal.png',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\images\\normal.png',
+   'DATA'),
+  ('images\\psychedelic.jpg',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\images\\psychedelic.jpg',
+   'DATA'),
+  ('images\\witch.jpg',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\images\\witch.jpg',
+   'DATA'),
+  ('dist\\MagicMirror\\base_library.zip',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\base_library.zip',
+   'DATA'),
+  ('dist\\MagicMirror\\glew32.dll',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\glew32.dll',
+   'DATA'),
+  ('dist\\MagicMirror\\libcrypto-1_1.dll',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\libcrypto-1_1.dll',
+   'DATA'),
+  ('dist\\MagicMirror\\libffi-7.dll',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\libffi-7.dll',
+   'DATA'),
+  ('dist\\MagicMirror\\libfreetype-6.dll',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\libfreetype-6.dll',
+   'DATA'),
+  ('dist\\MagicMirror\\libopenblas.GK7GX5KEQ4F6UYO3P26ULGBQYHGQO7J4.gfortran-win_amd64.dll',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\libopenblas.GK7GX5KEQ4F6UYO3P26ULGBQYHGQO7J4.gfortran-win_amd64.dll',
+   'DATA'),
+  ('dist\\MagicMirror\\libssl-1_1.dll',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\libssl-1_1.dll',
+   'DATA'),
+  ('dist\\MagicMirror\\MagicMirror.exe',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\MagicMirror.exe',
+   'DATA'),
+  ('dist\\MagicMirror\\MagicMirror.exe.manifest',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\MagicMirror.exe.manifest',
+   'DATA'),
+  ('dist\\MagicMirror\\mfc140u.dll',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\mfc140u.dll',
+   'DATA'),
+  ('dist\\MagicMirror\\pyexpat.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\pyexpat.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\python3.dll',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\python3.dll',
+   'DATA'),
+  ('dist\\MagicMirror\\python39.dll',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\python39.dll',
+   'DATA'),
+  ('dist\\MagicMirror\\pythoncom39.dll',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\pythoncom39.dll',
+   'DATA'),
+  ('dist\\MagicMirror\\pywintypes39.dll',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\pywintypes39.dll',
+   'DATA'),
+  ('dist\\MagicMirror\\SDL2.dll',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\SDL2.dll',
+   'DATA'),
+  ('dist\\MagicMirror\\SDL2_image.dll',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\SDL2_image.dll',
+   'DATA'),
+  ('dist\\MagicMirror\\SDL2_mixer.dll',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\SDL2_mixer.dll',
+   'DATA'),
+  ('dist\\MagicMirror\\SDL2_ttf.dll',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\SDL2_ttf.dll',
+   'DATA'),
+  ('dist\\MagicMirror\\select.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\select.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\unicodedata.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\unicodedata.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\VCRUNTIME140.dll',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\VCRUNTIME140.dll',
+   'DATA'),
+  ('dist\\MagicMirror\\win32api.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\win32api.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\win32file.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\win32file.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\win32gui.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\win32gui.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\win32pdh.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\win32pdh.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\win32trace.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\win32trace.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\win32ui.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\win32ui.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\zlib1.dll',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\zlib1.dll',
+   'DATA'),
+  ('dist\\MagicMirror\\_asyncio.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\_asyncio.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\_bz2.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\_bz2.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\_cffi_backend.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\_cffi_backend.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\_ctypes.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\_ctypes.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\_decimal.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\_decimal.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\_elementtree.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\_elementtree.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\_hashlib.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\_hashlib.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\_lzma.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\_lzma.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\_multiprocessing.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\_multiprocessing.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\_overlapped.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\_overlapped.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\_queue.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\_queue.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\_socket.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\_socket.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\_ssl.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\_ssl.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\_uuid.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\_uuid.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\_win32sysloader.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\_win32sysloader.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\win32com\\shell\\shell.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\win32com\\shell\\shell.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\PIL\\_imaging.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\PIL\\_imaging.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\PIL\\_imagingft.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\PIL\\_imagingft.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\PIL\\_imagingtk.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\PIL\\_imagingtk.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\PIL\\_webp.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\PIL\\_webp.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\numpy\\random\\bit_generator.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\numpy\\random\\bit_generator.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\numpy\\random\\mtrand.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\numpy\\random\\mtrand.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\numpy\\random\\_bounded_integers.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\numpy\\random\\_bounded_integers.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\numpy\\random\\_common.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\numpy\\random\\_common.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\numpy\\random\\_generator.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\numpy\\random\\_generator.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\numpy\\random\\_mt19937.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\numpy\\random\\_mt19937.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\numpy\\random\\_pcg64.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\numpy\\random\\_pcg64.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\numpy\\random\\_philox.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\numpy\\random\\_philox.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\numpy\\random\\_sfc64.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\numpy\\random\\_sfc64.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\numpy\\linalg\\lapack_lite.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\numpy\\linalg\\lapack_lite.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\numpy\\linalg\\_umath_linalg.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\numpy\\linalg\\_umath_linalg.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\numpy\\fft\\_pocketfft_internal.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\numpy\\fft\\_pocketfft_internal.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\numpy\\core\\_multiarray_tests.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\numpy\\core\\_multiarray_tests.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\numpy\\core\\_multiarray_umath.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\numpy\\core\\_multiarray_umath.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\modules\\console.py',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\modules\\console.py',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\modules\\cursor.py',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\modules\\cursor.py',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\modules\\inspector.py',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\modules\\inspector.py',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\modules\\joycursor.py',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\modules\\joycursor.py',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\modules\\keybinding.py',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\modules\\keybinding.py',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\modules\\monitor.py',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\modules\\monitor.py',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\modules\\recorder.py',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\modules\\recorder.py',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\modules\\screen.py',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\modules\\screen.py',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\modules\\showborder.py',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\modules\\showborder.py',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\modules\\touchring.py',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\modules\\touchring.py',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\modules\\webdebugger.py',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\modules\\webdebugger.py',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\modules\\_webdebugger.py',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\modules\\_webdebugger.py',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\modules\\__init__.py',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\modules\\__init__.py',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\modules\\__pycache__\\console.cpython-39.pyc',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\modules\\__pycache__\\console.cpython-39.pyc',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\modules\\__pycache__\\cursor.cpython-39.pyc',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\modules\\__pycache__\\cursor.cpython-39.pyc',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\modules\\__pycache__\\inspector.cpython-39.pyc',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\modules\\__pycache__\\inspector.cpython-39.pyc',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\modules\\__pycache__\\joycursor.cpython-39.pyc',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\modules\\__pycache__\\joycursor.cpython-39.pyc',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\modules\\__pycache__\\keybinding.cpython-39.pyc',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\modules\\__pycache__\\keybinding.cpython-39.pyc',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\modules\\__pycache__\\monitor.cpython-39.pyc',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\modules\\__pycache__\\monitor.cpython-39.pyc',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\modules\\__pycache__\\recorder.cpython-39.pyc',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\modules\\__pycache__\\recorder.cpython-39.pyc',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\modules\\__pycache__\\screen.cpython-39.pyc',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\modules\\__pycache__\\screen.cpython-39.pyc',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\modules\\__pycache__\\showborder.cpython-39.pyc',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\modules\\__pycache__\\showborder.cpython-39.pyc',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\modules\\__pycache__\\touchring.cpython-39.pyc',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\modules\\__pycache__\\touchring.cpython-39.pyc',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\modules\\__pycache__\\webdebugger.cpython-39.pyc',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\modules\\__pycache__\\webdebugger.cpython-39.pyc',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\modules\\__pycache__\\_webdebugger.cpython-39.pyc',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\modules\\__pycache__\\_webdebugger.cpython-39.pyc',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\modules\\__pycache__\\__init__.cpython-39.pyc',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\modules\\__pycache__\\__init__.cpython-39.pyc',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\data\\settings_kivy.json',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\data\\settings_kivy.json',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\data\\style.kv',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\data\\style.kv',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\data\\logo\\kivy-icon-128.png',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\data\\logo\\kivy-icon-128.png',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\data\\logo\\kivy-icon-16.png',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\data\\logo\\kivy-icon-16.png',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\data\\logo\\kivy-icon-24.png',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\data\\logo\\kivy-icon-24.png',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\data\\logo\\kivy-icon-256.png',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\data\\logo\\kivy-icon-256.png',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\data\\logo\\kivy-icon-32.png',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\data\\logo\\kivy-icon-32.png',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\data\\logo\\kivy-icon-48.png',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\data\\logo\\kivy-icon-48.png',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\data\\logo\\kivy-icon-512.png',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\data\\logo\\kivy-icon-512.png',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\data\\logo\\kivy-icon-64.ico',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\data\\logo\\kivy-icon-64.ico',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\data\\logo\\kivy-icon-64.png',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\data\\logo\\kivy-icon-64.png',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\data\\keyboards\\azerty.json',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\data\\keyboards\\azerty.json',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\data\\keyboards\\de.json',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\data\\keyboards\\de.json',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\data\\keyboards\\de_CH.json',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\data\\keyboards\\de_CH.json',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\data\\keyboards\\en_US.json',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\data\\keyboards\\en_US.json',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\data\\keyboards\\fr_CH.json',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\data\\keyboards\\fr_CH.json',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\data\\keyboards\\qwerty.json',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\data\\keyboards\\qwerty.json',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\data\\keyboards\\qwertz.json',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\data\\keyboards\\qwertz.json',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\data\\images\\background.jpg',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\data\\images\\background.jpg',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\data\\images\\cursor.png',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\data\\images\\cursor.png',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\data\\images\\defaultshape.png',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\data\\images\\defaultshape.png',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\data\\images\\defaulttheme-0.png',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\data\\images\\defaulttheme-0.png',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\data\\images\\defaulttheme.atlas',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\data\\images\\defaulttheme.atlas',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\data\\images\\image-loading.gif',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\data\\images\\image-loading.gif',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\data\\images\\image-loading.zip',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\data\\images\\image-loading.zip',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\data\\images\\testpattern.png',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\data\\images\\testpattern.png',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\data\\glsl\\default.fs',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\data\\glsl\\default.fs',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\data\\glsl\\default.png',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\data\\glsl\\default.png',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\data\\glsl\\default.vs',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\data\\glsl\\default.vs',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\data\\glsl\\header.fs',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\data\\glsl\\header.fs',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\data\\glsl\\header.vs',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\data\\glsl\\header.vs',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\data\\fonts\\DejaVuSans.ttf',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\data\\fonts\\DejaVuSans.ttf',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\data\\fonts\\Roboto-Bold.ttf',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\data\\fonts\\Roboto-Bold.ttf',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\data\\fonts\\Roboto-BoldItalic.ttf',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\data\\fonts\\Roboto-BoldItalic.ttf',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\data\\fonts\\Roboto-Italic.ttf',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\data\\fonts\\Roboto-Italic.ttf',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\data\\fonts\\Roboto-Regular.ttf',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\data\\fonts\\Roboto-Regular.ttf',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy_install\\data\\fonts\\RobotoMono-Regular.ttf',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy_install\\data\\fonts\\RobotoMono-Regular.ttf',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy\\properties.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy\\properties.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy\\weakproxy.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy\\weakproxy.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy\\_clock.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy\\_clock.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy\\_event.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy\\_event.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy\\lib\\gstplayer\\_gstplayer.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy\\lib\\gstplayer\\_gstplayer.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy\\graphics\\buffer.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy\\graphics\\buffer.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy\\graphics\\cgl.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy\\graphics\\cgl.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy\\graphics\\compiler.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy\\graphics\\compiler.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy\\graphics\\context.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy\\graphics\\context.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy\\graphics\\context_instructions.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy\\graphics\\context_instructions.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy\\graphics\\fbo.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy\\graphics\\fbo.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy\\graphics\\gl_instructions.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy\\graphics\\gl_instructions.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy\\graphics\\instructions.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy\\graphics\\instructions.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy\\graphics\\opengl.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy\\graphics\\opengl.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy\\graphics\\opengl_utils.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy\\graphics\\opengl_utils.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy\\graphics\\scissor_instructions.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy\\graphics\\scissor_instructions.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy\\graphics\\shader.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy\\graphics\\shader.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy\\graphics\\stencil_instructions.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy\\graphics\\stencil_instructions.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy\\graphics\\svg.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy\\graphics\\svg.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy\\graphics\\tesselator.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy\\graphics\\tesselator.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy\\graphics\\texture.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy\\graphics\\texture.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy\\graphics\\transformation.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy\\graphics\\transformation.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy\\graphics\\vbo.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy\\graphics\\vbo.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy\\graphics\\vertex.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy\\graphics\\vertex.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy\\graphics\\vertex_instructions.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy\\graphics\\vertex_instructions.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy\\graphics\\cgl_backend\\cgl_debug.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy\\graphics\\cgl_backend\\cgl_debug.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy\\graphics\\cgl_backend\\cgl_gl.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy\\graphics\\cgl_backend\\cgl_gl.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy\\graphics\\cgl_backend\\cgl_glew.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy\\graphics\\cgl_backend\\cgl_glew.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy\\graphics\\cgl_backend\\cgl_mock.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy\\graphics\\cgl_backend\\cgl_mock.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy\\graphics\\cgl_backend\\cgl_sdl2.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy\\graphics\\cgl_backend\\cgl_sdl2.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy\\core\\window\\window_info.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy\\core\\window\\window_info.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy\\core\\window\\_window_sdl2.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy\\core\\window\\_window_sdl2.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy\\core\\text\\text_layout.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy\\core\\text\\text_layout.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy\\core\\text\\_text_sdl2.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy\\core\\text\\_text_sdl2.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy\\core\\image\\_img_sdl2.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy\\core\\image\\_img_sdl2.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy\\core\\clipboard\\_clipboard_sdl2.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy\\core\\clipboard\\_clipboard_sdl2.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\kivy\\core\\audio\\audio_sdl2.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\kivy\\core\\audio\\audio_sdl2.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\Include\\pyconfig.h',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\Include\\pyconfig.h',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\README.txt',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\README.txt',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\small-white\\framing.css',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\small-white\\framing.css',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\small-white\\pretty.css',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\small-white\\pretty.css',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\small-black\\pretty.css',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\small-black\\pretty.css',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\small-black\\__base__',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\small-black\\__base__',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\medium-white\\framing.css',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\medium-white\\framing.css',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\medium-white\\pretty.css',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\medium-white\\pretty.css',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\medium-black\\pretty.css',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\medium-black\\pretty.css',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\medium-black\\__base__',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\medium-black\\__base__',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\default\\blank.gif',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\default\\blank.gif',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\default\\framing.css',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\default\\framing.css',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\default\\iepngfix.htc',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\default\\iepngfix.htc',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\default\\opera.css',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\default\\opera.css',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\default\\outline.css',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\default\\outline.css',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\default\\pretty.css',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\default\\pretty.css',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\default\\print.css',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\default\\print.css',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\default\\s5-core.css',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\default\\s5-core.css',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\default\\slides.css',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\default\\slides.css',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\default\\slides.js',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\default\\slides.js',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\big-white\\framing.css',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\big-white\\framing.css',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\big-white\\pretty.css',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\big-white\\pretty.css',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\big-black\\framing.css',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\big-black\\framing.css',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\big-black\\pretty.css',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\big-black\\pretty.css',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\big-black\\__base__',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\writers\\s5_html\\themes\\big-black\\__base__',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\writers\\pep_html\\pep.css',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\writers\\pep_html\\pep.css',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\writers\\pep_html\\template.txt',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\writers\\pep_html\\template.txt',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\writers\\odf_odt\\styles.odt',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\writers\\odf_odt\\styles.odt',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\writers\\latex2e\\default.tex',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\writers\\latex2e\\default.tex',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\writers\\latex2e\\titlepage.tex',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\writers\\latex2e\\titlepage.tex',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\writers\\latex2e\\xelatex.tex',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\writers\\latex2e\\xelatex.tex',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\writers\\html5_polyglot\\math.css',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\writers\\html5_polyglot\\math.css',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\writers\\html5_polyglot\\minimal.css',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\writers\\html5_polyglot\\minimal.css',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\writers\\html5_polyglot\\plain.css',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\writers\\html5_polyglot\\plain.css',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\writers\\html5_polyglot\\template.txt',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\writers\\html5_polyglot\\template.txt',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\writers\\html4css1\\html4css1.css',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\writers\\html4css1\\html4css1.css',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\writers\\html4css1\\template.txt',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\writers\\html4css1\\template.txt',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isoamsa.txt',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isoamsa.txt',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isoamsb.txt',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isoamsb.txt',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isoamsc.txt',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isoamsc.txt',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isoamsn.txt',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isoamsn.txt',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isoamso.txt',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isoamso.txt',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isoamsr.txt',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isoamsr.txt',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isobox.txt',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isobox.txt',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isocyr1.txt',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isocyr1.txt',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isocyr2.txt',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isocyr2.txt',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isodia.txt',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isodia.txt',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isogrk1.txt',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isogrk1.txt',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isogrk2.txt',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isogrk2.txt',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isogrk3.txt',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isogrk3.txt',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isogrk4-wide.txt',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isogrk4-wide.txt',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isogrk4.txt',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isogrk4.txt',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isolat1.txt',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isolat1.txt',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isolat2.txt',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isolat2.txt',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isomfrk-wide.txt',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isomfrk-wide.txt',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isomfrk.txt',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isomfrk.txt',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isomopf-wide.txt',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isomopf-wide.txt',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isomopf.txt',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isomopf.txt',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isomscr-wide.txt',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isomscr-wide.txt',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isomscr.txt',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isomscr.txt',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isonum.txt',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isonum.txt',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isopub.txt',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isopub.txt',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isotech.txt',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\parsers\\rst\\include\\isotech.txt',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\parsers\\rst\\include\\mmlalias.txt',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\parsers\\rst\\include\\mmlalias.txt',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\parsers\\rst\\include\\mmlextra-wide.txt',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\parsers\\rst\\include\\mmlextra-wide.txt',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\parsers\\rst\\include\\mmlextra.txt',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\parsers\\rst\\include\\mmlextra.txt',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\parsers\\rst\\include\\README.txt',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\parsers\\rst\\include\\README.txt',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\parsers\\rst\\include\\s5defs.txt',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\parsers\\rst\\include\\s5defs.txt',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\parsers\\rst\\include\\xhtml1-lat1.txt',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\parsers\\rst\\include\\xhtml1-lat1.txt',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\parsers\\rst\\include\\xhtml1-special.txt',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\parsers\\rst\\include\\xhtml1-special.txt',
+   'DATA'),
+  ('dist\\MagicMirror\\docutils\\parsers\\rst\\include\\xhtml1-symbol.txt',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\docutils\\parsers\\rst\\include\\xhtml1-symbol.txt',
+   'DATA'),
+  ('dist\\MagicMirror\\cv2\\cv2.cp39-win_amd64.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\cv2\\cv2.cp39-win_amd64.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\cv2\\opencv_videoio_ffmpeg451_64.dll',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\cv2\\opencv_videoio_ffmpeg451_64.dll',
+   'DATA'),
+  ('dist\\MagicMirror\\cryptography-3.4.7-py3.9.egg-info\\INSTALLER',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\cryptography-3.4.7-py3.9.egg-info\\INSTALLER',
+   'DATA'),
+  ('dist\\MagicMirror\\cryptography-3.4.7-py3.9.egg-info\\LICENSE',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\cryptography-3.4.7-py3.9.egg-info\\LICENSE',
+   'DATA'),
+  ('dist\\MagicMirror\\cryptography-3.4.7-py3.9.egg-info\\LICENSE.APACHE',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\cryptography-3.4.7-py3.9.egg-info\\LICENSE.APACHE',
+   'DATA'),
+  ('dist\\MagicMirror\\cryptography-3.4.7-py3.9.egg-info\\LICENSE.BSD',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\cryptography-3.4.7-py3.9.egg-info\\LICENSE.BSD',
+   'DATA'),
+  ('dist\\MagicMirror\\cryptography-3.4.7-py3.9.egg-info\\LICENSE.PSF',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\cryptography-3.4.7-py3.9.egg-info\\LICENSE.PSF',
+   'DATA'),
+  ('dist\\MagicMirror\\cryptography-3.4.7-py3.9.egg-info\\METADATA',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\cryptography-3.4.7-py3.9.egg-info\\METADATA',
+   'DATA'),
+  ('dist\\MagicMirror\\cryptography-3.4.7-py3.9.egg-info\\RECORD',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\cryptography-3.4.7-py3.9.egg-info\\RECORD',
+   'DATA'),
+  ('dist\\MagicMirror\\cryptography-3.4.7-py3.9.egg-info\\REQUESTED',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\cryptography-3.4.7-py3.9.egg-info\\REQUESTED',
+   'DATA'),
+  ('dist\\MagicMirror\\cryptography-3.4.7-py3.9.egg-info\\top_level.txt',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\cryptography-3.4.7-py3.9.egg-info\\top_level.txt',
+   'DATA'),
+  ('dist\\MagicMirror\\cryptography-3.4.7-py3.9.egg-info\\WHEEL',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\cryptography-3.4.7-py3.9.egg-info\\WHEEL',
+   'DATA'),
+  ('dist\\MagicMirror\\cryptography\\hazmat\\bindings\\_openssl.pyd',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\cryptography\\hazmat\\bindings\\_openssl.pyd',
+   'DATA'),
+  ('dist\\MagicMirror\\certifi\\cacert.pem',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\dist\\MagicMirror\\certifi\\cacert.pem',
+   'DATA'),
+  ('build\\MagicMirror\\Analysis-00.toc',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\build\\MagicMirror\\Analysis-00.toc',
+   'DATA'),
+  ('build\\MagicMirror\\base_library.zip',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\build\\MagicMirror\\base_library.zip',
+   'DATA'),
+  ('build\\MagicMirror\\COLLECT-00.toc',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\build\\MagicMirror\\COLLECT-00.toc',
+   'DATA'),
+  ('build\\MagicMirror\\EXE-00.toc',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\build\\MagicMirror\\EXE-00.toc',
+   'DATA'),
+  ('build\\MagicMirror\\MagicMirror.exe',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\build\\MagicMirror\\MagicMirror.exe',
+   'DATA'),
+  ('build\\MagicMirror\\MagicMirror.exe.manifest',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\build\\MagicMirror\\MagicMirror.exe.manifest',
+   'DATA'),
+  ('build\\MagicMirror\\PKG-00.pkg',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\build\\MagicMirror\\PKG-00.pkg',
+   'DATA'),
+  ('build\\MagicMirror\\PKG-00.toc',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\build\\MagicMirror\\PKG-00.toc',
+   'DATA'),
+  ('build\\MagicMirror\\PYZ-00.pyz',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\build\\MagicMirror\\PYZ-00.pyz',
+   'DATA'),
+  ('build\\MagicMirror\\PYZ-00.toc',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\build\\MagicMirror\\PYZ-00.toc',
+   'DATA'),
+  ('build\\MagicMirror\\Tree-00.toc',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\build\\MagicMirror\\Tree-00.toc',
+   'DATA'),
+  ('build\\MagicMirror\\Tree-01.toc',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\build\\MagicMirror\\Tree-01.toc',
+   'DATA'),
+  ('build\\MagicMirror\\Tree-02.toc',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\build\\MagicMirror\\Tree-02.toc',
+   'DATA'),
+  ('build\\MagicMirror\\warn-MagicMirror.txt',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\build\\MagicMirror\\warn-MagicMirror.txt',
+   'DATA'),
+  ('build\\MagicMirror\\xref-MagicMirror.html',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\build\\MagicMirror\\xref-MagicMirror.html',
+   'DATA'),
+  ('.idea\\.gitignore',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\.idea\\.gitignore',
+   'DATA'),
+  ('.idea\\csv-plugin.xml',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\.idea\\csv-plugin.xml',
+   'DATA'),
+  ('.idea\\Mirror.iml',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\.idea\\Mirror.iml',
+   'DATA'),
+  ('.idea\\misc.xml',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\.idea\\misc.xml',
+   'DATA'),
+  ('.idea\\modules.xml',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\.idea\\modules.xml',
+   'DATA'),
+  ('.idea\\workspace.xml',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\.idea\\workspace.xml',
+   'DATA'),
+  ('.idea\\inspectionProfiles\\profiles_settings.xml',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\.idea\\inspectionProfiles\\profiles_settings.xml',
+   'DATA'),
+  ('.idea\\inspectionProfiles\\Project_Default.xml',
+   'D:\\Orestis\\Documents\\1. UDEMY '
+   'COURSES\\19.Ardit_course_OOP\\Mirror\\.idea\\inspectionProfiles\\Project_Default.xml',
+   'DATA')])
