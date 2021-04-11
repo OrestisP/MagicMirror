@@ -5,7 +5,7 @@ class FileSharer:
     uploads files into the cloud of filestack, creates a link and then allows us to send
     the link to others so that they can download the file.
     '''
-    def __init__(self, filepath, api_key='AWqboQP1cQ4e4sKLo0JQ9z'):
+    def __init__(self, filepath, api_key='<your-api-key>'):
         self.filepath = filepath
         self.api_key = api_key
 
